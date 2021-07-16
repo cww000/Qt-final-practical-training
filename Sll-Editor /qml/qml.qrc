@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Actions.qml</file>
+        <file>Content.qml</file>
+        <file>Dialogs.qml</file>
+        <file>ConfigurationToolBar.qml</file>
+        <file>ConfigurationToolBarForm.ui.qml</file>
+        <file>MyLabel.qml</file>
+        <file>LabelContent.qml</file>
+        <file>MusicPlayer.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>LyricPage.qml</file>
+        <file>Kid3Page.qml</file>
+    </qresource>
+</RCC>

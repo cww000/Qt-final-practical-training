@@ -1,0 +1,12 @@
+prefix=/opt/taglib
+exec_prefix=/opt/taglib
+libdir=/opt/taglib/lib
+includedir=/opt/taglib/include
+
+
+Name: TagLib C Bindings
+Description: Audio meta-data library (C bindings)
+Requires: taglib
+Version: 1.12
+Libs: -L/opt/taglib/lib -ltag_c
+Cflags: -I/opt/taglib/include/taglib
